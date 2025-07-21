@@ -11,3 +11,5 @@ Using if-elif-else statements for game logic
 Basic terminal output
 🔧 How to Run:
 Make sure you have Python installed, then run:
+
+ps >> 💬 I'm still learning! Feedback or suggestions are always welcome. :)
